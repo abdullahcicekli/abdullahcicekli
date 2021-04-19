@@ -51,4 +51,4 @@
 
 [instagram]: https://www.instagram.com/cicekli_abdullah/
 [linkedin]: https://www.linkedin.com/in/cicekliabdullah/
-[portfolio]: https://arsentieva.github.io/profile/
+[portfolio]: https://github.com/abdullahcicekli
