@@ -6,9 +6,9 @@
 ## I'm a junior Developer, Cyber Security Researcher, and Student!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- 🌱 I’m currently learning React Microservices
+- 💬 Ask me about Anything [instagram][linkedin]
+- ⚡ I speak 2 languages (Turkish [Native], English [B1])
 
 
 ### Talk with me, I am kinda awesome:
