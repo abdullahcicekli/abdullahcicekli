@@ -1,4 +1,4 @@
-### Merhaba, I'm Abdullah  👋
+### Hello, I'm Abdullah  👋
 
  <img align="right" alt="GIF" src="https://github.com/abdullahcicekli/abdullahcicekli/blob/main/python-2.gif?raw=true" width="500" height="370" />
 
