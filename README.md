@@ -47,6 +47,8 @@
 
 </details>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jjwcyncoe4hcpxqhr5068w40c&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 [instagram]: https://www.instagram.com/cicekli_abdullah/
 [linkedin]: https://www.linkedin.com/in/cicekliabdullah/
 [portfolio]: https://arsentieva.github.io/profile/
