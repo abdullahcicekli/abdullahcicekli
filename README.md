@@ -7,7 +7,7 @@
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Microservices
-- 💬 Ask me about Anything [instagram][linkedin]
+- 💬 Ask me about Anything [instagram]
 - ⚡ I speak 2 languages (Turkish [Native], English [B1])
 
 
