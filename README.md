@@ -7,11 +7,11 @@
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Microservices
-- 💬 Ask me about Anything [instagram]
+- 💬 Ask me about Anything with [instagram]
 - ⚡ I speak 2 languages (Turkish [Native], English [B1])
 
 
-### Talk with me, I am kinda awesome:
+### Talk with me :
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
