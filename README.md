@@ -1,6 +1,6 @@
 ### Merhaba, I'm Abdullah  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abdullahcicekli/abdullahcicekli/blob/main/python-2.gif?raw=true" width="500" height="320" />
 
 
 ## I'm a junior Developer, Cyber Security Researcher, and Student!!
