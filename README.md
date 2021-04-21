@@ -5,7 +5,7 @@
 
 ## I'm a junior Developer, Cyber Security Researcher, and Student!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on new technologies.
+- 🔭 I’m currently working on new machine learning.
 - 🌱 I’m currently learning React Microservices
 - 💬 Ask me about Anything with [instagram]
 - ⚡ I speak 2 languages (Turkish [Native], English [B1])
