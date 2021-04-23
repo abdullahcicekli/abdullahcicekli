@@ -50,4 +50,4 @@
 
 [instagram]: https://www.instagram.com/cicekli_abdullah/
 [linkedin]: https://www.linkedin.com/in/cicekliabdullah/
-[portfolio]: https://github.com/abdullahcicekli
+[portfolio]: https://abdullahcicekli.github.io/
