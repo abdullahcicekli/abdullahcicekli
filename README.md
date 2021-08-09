@@ -48,7 +48,7 @@
 </details>
 
 
-[instagram]: https://twitter.com/bdullahC
+[twitter]: https://twitter.com/bdullahC
 [instagram]: https://www.instagram.com/cicekli_abdullah/
 [linkedin]: https://www.linkedin.com/in/cicekliabdullah/
 [portfolio]: https://abdullahcicekli.github.io/
