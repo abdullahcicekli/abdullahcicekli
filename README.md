@@ -7,7 +7,7 @@
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on new machine learning.
 - 🌱 I’m currently learning React Microservices
-- 💬 Ask me about Anything with [instagram]
+- 💬 Ask me about Anything with [instagram] or [twitter]
 - ⚡ I speak 2 languages (Turkish [Native], English [B1])
 
 
@@ -17,10 +17,10 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -31,7 +31,7 @@
 
 <br />
 <br />
----
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -48,6 +48,7 @@
 </details>
 
 
+[instagram]: https://twitter.com/bdullahC
 [instagram]: https://www.instagram.com/cicekli_abdullah/
 [linkedin]: https://www.linkedin.com/in/cicekliabdullah/
 [portfolio]: https://abdullahcicekli.github.io/
