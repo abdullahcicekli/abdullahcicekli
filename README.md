@@ -5,8 +5,8 @@
 
 ## I'm a junior Developer, Cyber Security Researcher.
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on react native.
-- 🌱 I’m currently learning React Microservices
+- 🔭 I’m currently working on Cyber Security Researcher.
+- 🌱 I’m currently learning React Native.
 - 💬 Ask me about Anything with [instagram] or [twitter]
 - ⚡ I speak 2 languages (Turkish [Native], English [B1])
 
