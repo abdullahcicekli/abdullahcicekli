@@ -3,10 +3,10 @@
  <img align="right" alt="GIF" src="https://github.com/abdullahcicekli/abdullahcicekli/blob/main/python-2.gif?raw=true" width="500" height="370" />
 
 
-## I'm a junior Developer, Cyber Security Researcher.
+## I'm a Software Developer, Cyber Security Researcher.
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on Cyber Security.
-- 🌱 I’m currently learning ReactJS.
+- 🔭 I’m currently working on software development.
+- 🌱 I’m currently learning Java.
 - 💬 Ask me about Anything with [instagram] or [twitter]
 - ⚡ I speak 2 languages (Turkish [Native], English [B1])
 
